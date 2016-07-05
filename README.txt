@@ -21,5 +21,5 @@ Embed Interative Hackpad documents by pasting their URLs
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Add the initial plugin file

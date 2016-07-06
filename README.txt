@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Embed Hackpad Documents ===
 Contributors: shadyvb
 Tags: hackpad, embed
 Tested up to: 4.5
@@ -15,7 +15,7 @@ Embed Interative Hackpad documents by pasting their URLs
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/hackpad-embed` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/embed-hackpad-documents` directory, or install the plugin through the WordPress plugins screen directly.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 1. Paste Hackpad URL in Post content, the embedded document is automatically inserted in place of the URL
 

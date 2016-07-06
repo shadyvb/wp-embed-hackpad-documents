@@ -2,25 +2,25 @@
 /**
  * Hackpads Embedded in WordPress
  *
- * @package Hackpad-embed
+ * @package embed-hackpad-documents
  * @version 1.0.0
  */
 
 /*
-Plugin Name: Hackpad Embeds
-Plugin URI: https://github.com/shadyvb/hackpad-embed
+Plugin Name: Embed Hackpad Documents
+Plugin URI: https://github.com/shadyvb/wp-embed-hackpad-documents
 Description: Embed Hackpad documents in WordPress
 Author: Shady Sharaf
 Version: 1.0.0
 Author URI: http://sharaf.me/
 License: GPL2
 
-Hackpad Embeds is free software: you can redistribute it and/or modify
+Embed Hackpad Documents is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 2 of the License, or
 any later version.
 
-Hackpad Embeds is distributed in the hope that it will be useful,
+Embed Hackpad Documents is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.

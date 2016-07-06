@@ -3,7 +3,7 @@
  * Hackpads Embedded in WordPress
  *
  * @package embed-hackpad-documents
- * @version 1.0.0
+ * @version 1.0.1
  */
 
 /*
@@ -11,7 +11,7 @@ Plugin Name: Embed Hackpad Documents
 Plugin URI: https://github.com/shadyvb/wp-embed-hackpad-documents
 Description: Embed Hackpad documents in WordPress
 Author: Shady Sharaf
-Version: 1.0.0
+Version: 1.0.1
 Author URI: http://sharaf.me/
 License: GPL2
 

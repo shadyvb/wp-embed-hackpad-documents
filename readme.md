@@ -25,4 +25,7 @@ Embed Interative Hackpad documents by pasting their URLs
 ### 1.0.0 ###
 * Add the initial plugin file
 
+### 1.0.1 ###
+* Change plugin name references
+
 
